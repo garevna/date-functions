@@ -1,0 +1,23 @@
+{
+  "name": "garevna-date-functions",
+  "version": "1.0.8",
+  "description": "Functions help to breakdown the schedule by week",
+  "main": "dist/date-functions.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garevna/date-functions.git"
+  },
+  "keywords": [
+    "title-case",
+    "converter"
+  ],
+  "author": "garevna <irina.h.fylyppova@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garevna/date-functions/issues"
+  },
+  "homepage": "https://github.com/garevna/date-functions#readme"
+}
