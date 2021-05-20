@@ -1,6 +1,6 @@
 {
   "name": "garevna-date-functions",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Functions help to breakdown the schedule by week",
   "main": "dist/date-functions.js",
   "scripts": {
