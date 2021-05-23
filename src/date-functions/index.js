@@ -8,6 +8,7 @@ const { getPrevWeekDate } = require('./getPrevWeekDate')
 
 const { getWeekStartDateByWeekNumber } = require('./getWeekStartDateByWeekNumber')
 const { getWeekEndDateByWeekNumber } = require('./getWeekEndDateByWeekNumber')
+const { getWeekDatesByWeekNumber } = require('./getWeekDatesByWeekNumber')
 
 const { getFormattedISODate } = require('./getFormattedISODate')
 const { getFormattedDate } = require('./getFormattedDate')
@@ -25,5 +26,6 @@ module.exports = {
   getPrevWeekDate,
 
   getWeekStartDateByWeekNumber,
-  getWeekEndDateByWeekNumber
+  getWeekEndDateByWeekNumber,
+  getWeekDatesByWeekNumber
 }
