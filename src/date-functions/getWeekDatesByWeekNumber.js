@@ -1,4 +1,4 @@
-import { initialDate, weekDuration } from './initial'
+import { initialDate, weekDuration, dayDuration } from './initial'
 
 export const getWeekDatesByWeekNumber = (weekNumber, format = 'ISO') => {
   const result = []
